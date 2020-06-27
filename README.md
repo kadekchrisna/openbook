@@ -1,6 +1,6 @@
 # OpenBook API
 
-OpenBook For Browsing Books And Using OAuth2.0 in Go Using SOLID. 
+OpenBook For Browsing Books With OAuth2.0 in Go Using SOLID. 
 
 1. [Item API](https://github.com/kadekchrisna/openbook-items-api)
 
